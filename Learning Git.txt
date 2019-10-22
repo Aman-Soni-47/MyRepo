@@ -1,0 +1,20 @@
+Learning Git
+
+1. git clone https://github.com/AmanSonii/LearningPhase.git.
+2. cd folderName.
+3. touch README.md
+4. git status
+5. git add README.md
+6. git commit -m "<message>"
+7. Tell me who r u
+8. git config --global user.name "<Aman>"
+9. git config --global user.email "<Aman.soni@47billion.com>"
+10. git commit -m "<message>"
+11. git push
+
+There are two ways to create branch in GitHub
+$ git branch <branch-name>
+$ git checkout <branch-name>
+or
+$ git checkout -b FirstBranch
+
