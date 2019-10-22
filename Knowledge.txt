@@ -1,0 +1,9 @@
+When error occurred during project creation in angular
+npm set registry https://registry.npmjs.org/
+npm cache clean --force
+npm cache verify
+npm install
+
+
+
+Server=localhost;Database=master;Trusted_Connection=True;
