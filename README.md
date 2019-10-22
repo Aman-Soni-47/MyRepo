@@ -1,0 +1,1 @@
+I have added a new class Named class.cs
