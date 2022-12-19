@@ -14,6 +14,7 @@ namespace ConsoleApp1
             // Press Ctrl+F5 (or go to Debug > Start Without Debugging) to run your app.
             // retttrrrrrrr
             // test comment stash
+            // test statsh master
             Console.WriteLine("Hello World!");
             PlayWithDish();
             Console.ReadKey();
