@@ -17,6 +17,7 @@ namespace ConsoleApp1
             // test statsh master
             // test comment playwithstash
             // test comment master
+            //test commnet master from browser
             Console.WriteLine("Hello World!");
             PlayWithDish();
             Console.ReadKey();
